@@ -1,17 +1,29 @@
-# student_management_app
+Student Database App
 
-A Student Management App built with Flutter and SQLite to add, view, update, and delete student records. This project demonstrates basic CRUD operations and local database management.
+A simple Student Database application developed using Flutter and SQLite to manage student records.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+- Add new student records
+- View saved student records
+- Update student information
+- Delete student records
+- Store student data locally using SQLite
+- Display success messages
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- SQLite
+- sqflite
+- path
+- path_provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Learning Purpose
+
+This project was created to practice Flutter application development, database integration, and CRUD operations (Create, Read, Update, Delete).
+
+Developer
+
+Flutter Beginner Developer
